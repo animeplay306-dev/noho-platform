@@ -1,0 +1,9 @@
+node_modules
+*.tar.gz
+*.bundle
+.git
+*.log
+test-lib.js
+noho_data/
+test_data/
+.noho_session.json
