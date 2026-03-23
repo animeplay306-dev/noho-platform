@@ -1,0 +1,19 @@
+# NOHO Platform 🚀
+
+[![npm version](https://badge.fury.io/js/noho-platform.svg)](https://www.npmjs.com/package/noho-platform)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+منصة قوية لبناء بوتات الواتساب وتطبيقات الويب بسهولة
+
+## ✨ المميزات
+
+- 🤖 دعم بوتات الواتساب (Baileys)
+- ⬇️ تنزيل الفيديوهات (YouTube, TikTok, Instagram...)
+- 🌐 إنشاء خوادم Express جاهزة
+- 📊 قواعد بيانات مدمجة
+- 🔐 مصادقة JWT
+
+## 📦 التثبيت
+
+```bash
+npm install noho-platform
