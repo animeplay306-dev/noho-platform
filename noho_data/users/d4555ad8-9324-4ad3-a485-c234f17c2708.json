@@ -1,0 +1,20 @@
+{
+  "id": "d4555ad8-9324-4ad3-a485-c234f17c2708",
+  "email": "ali@test.com",
+  "username": "ali",
+  "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+  "apiKey": "noho_mn33mh72_fa58da8ba86f656cb884f1eb",
+  "createdAt": "2026-03-23T11:24:49.935Z",
+  "lastLogin": null,
+  "pages": [],
+  "stats": {
+    "requests": 0,
+    "pagesCreated": 0,
+    "lastActive": 1774265089935
+  },
+  "settings": {
+    "autoFix": true,
+    "notifications": true,
+    "theme": "dark"
+  }
+}

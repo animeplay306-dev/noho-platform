@@ -1,0 +1,20 @@
+{
+  "id": "3444499b-de5a-4931-b802-e02a054ef0c1",
+  "email": "test@test.com",
+  "username": "test",
+  "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+  "apiKey": "noho_mn32pieq_15c407b3681e9882c87cc41e",
+  "createdAt": "2026-03-23T10:59:11.858Z",
+  "lastLogin": null,
+  "pages": [],
+  "stats": {
+    "requests": 0,
+    "pagesCreated": 0,
+    "lastActive": 1774263551858
+  },
+  "settings": {
+    "autoFix": true,
+    "notifications": true,
+    "theme": "dark"
+  }
+}

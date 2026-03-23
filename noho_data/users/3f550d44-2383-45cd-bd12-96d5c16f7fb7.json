@@ -1,0 +1,22 @@
+{
+  "id": "3f550d44-2383-45cd-bd12-96d5c16f7fb7",
+  "email": "ahmed@test.com",
+  "username": "ahmed",
+  "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
+  "apiKey": "noho_mn32p0wc_0c2b22b0f50585a560589e4c",
+  "createdAt": "2026-03-23T10:58:49.165Z",
+  "lastLogin": "2026-03-23T12:03:33.321Z",
+  "pages": [
+    "3f550d44-2383-45cd-bd12-96d5c16f7fb7_1429be93890e6120"
+  ],
+  "stats": {
+    "requests": 0,
+    "pagesCreated": 1,
+    "lastActive": 1774267413323
+  },
+  "settings": {
+    "autoFix": true,
+    "notifications": true,
+    "theme": "dark"
+  }
+}
