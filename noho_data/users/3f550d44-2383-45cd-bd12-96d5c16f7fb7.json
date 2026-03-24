@@ -7,11 +7,13 @@
   "createdAt": "2026-03-23T10:58:49.165Z",
   "lastLogin": "2026-03-23T12:03:33.321Z",
   "pages": [
-    "3f550d44-2383-45cd-bd12-96d5c16f7fb7_1429be93890e6120"
+    "3f550d44-2383-45cd-bd12-96d5c16f7fb7_1429be93890e6120",
+    "3f550d44-2383-45cd-bd12-96d5c16f7fb7_02571720d648d078",
+    "3f550d44-2383-45cd-bd12-96d5c16f7fb7_5c7bbdbbb7d0109e"
   ],
   "stats": {
     "requests": 0,
-    "pagesCreated": 1,
+    "pagesCreated": 3,
     "lastActive": 1774267413323
   },
   "settings": {
